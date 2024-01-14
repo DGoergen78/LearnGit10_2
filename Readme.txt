@@ -1,0 +1,1 @@
+Hallo liebe Schüler, willkommen in meinem GitRepository!
